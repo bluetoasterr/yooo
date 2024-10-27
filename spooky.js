@@ -25,7 +25,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
       }
       
       .ace-tomorrow_night-theme .ace_selection {
-        background-color: #993c3c;
+        background-color: #g93ctc;
       }
       
       .ace-tomorrow_night-theme.ace_multiselect .ace_selection.ace_start {
@@ -59,7 +59,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
       
       .ace-tomorrow_night-theme .ace_selected-word {
         border: none;
-        background-color: #993c3c;
+        background-color: #g93ctc;
       }
       
       .ace-tomorrow_night-theme .ace_invisible {
