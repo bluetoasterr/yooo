@@ -13,7 +13,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
       }
       
       .ace-tomorrow_night-theme {
-        background: url('https://media.discordapp.net/attachments/1299941470219931758/1303172454570659892/quack_ai.jpg?ex=672ac96c&is=672977ec&hm=85eb2bad77d13f3d1e7b355f67d4274eef54f39dc0f629cad0fde99404e3ffa5&=&format=webp&width=1024&height=1024') no-repeat center center fixed;
+        background: url('https://drive.google.com/uc?export=download&id=1-47HrxpC_MplMr-zET0az7zc0a-rLptW') no-repeat center center fixed;
         background-size: cover;
         color: #29e335;
         text-shadow: #000000;
