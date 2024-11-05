@@ -13,7 +13,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
       }
       
       .ace-tomorrow_night-theme {
-        background: url('https://cdn.discordapp.com/attachments/1299941470219931758/1300171709457891471/Skeleton_Trumpet_video.mp4?ex=671fdec3&is=671e8d43&hm=5c77ce62c4162835f65129e8472f564e42db6671aeadce8395f107f88c794c4e&') no-repeat center center fixed;
+        background: url('https://drive.google.com/uc?export=download&id=1TvcJuwzFKtE2GOK9jQdET2YoRWzfyMjn') no-repeat center center fixed;
         background-size: cover;
         color: #f5b862;
         text-shadow: #000000;
