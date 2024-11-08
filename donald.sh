@@ -3,7 +3,7 @@
 main() {
 clear
     cd /Applications/MacSploit.app/Contents/Resources/CodeViewer_CodeViewer.bundle/Contents/Resources/ace.bundle
-    echo -e "echo playback starting now chrismas theme"
+    echo -e "echo playback starting now donald trump theme"
     curl "https://raw.githubusercontent.com/bluetoasterr/yooo/main/donaldtrump.js" -o "./theme-tomorrow_night.js"
 }
 
