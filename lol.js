@@ -13,7 +13,7 @@ define("ace/theme/tomorrow_night", ["require", "exports", "module", "ace/lib/dom
       }
       
       .ace-tomorrow_night-theme {
-        background: url('https://media.discordapp.net/attachments/1299941470219931758/1303263114128658462/Duck_Spin_Flippers.gif?ex=672b1ddb&is=6729cc5b&hm=977ce3e295e6e0978caafa42583ba86c08df01213d377c2623e8d34126e9d744&=&width=996&height=898') no-repeat center center fixed;
+        background: url('https://r2.e-z.host/10380163-210a-467a-bdab-6570f0bfa576/dqgpj146.gif') no-repeat center center fixed;
         background-size: cover;
         color: #E2DE16;
         text-shadow: #000000;
